@@ -214,7 +214,7 @@ header,
 
 /* newsletter section styles */
 .newsletter-main {
-    background-image: url('/images/Rectangle-9.png');
+    background-image: url('../images/Rectangle-9.png');
     background-repeat: no-repeat;
     padding: 122px 0;
 }
